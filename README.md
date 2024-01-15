@@ -18,7 +18,7 @@
 
 <div align="center">
   <h2>📫 Contact me:</h2>
-  <a href="https://www.linkedin.com/in/kim-l%C3%B6fgren-52504524a/">
+  <a href="https://www.linkedin.com/in/kim-l%C3%B6fgren-52504524a/" target=”_blank”>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>&emsp;
   <a href="mailto:Lofgrenkim@Outlook.com">
