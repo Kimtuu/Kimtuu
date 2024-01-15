@@ -3,7 +3,7 @@
  <img align="center" src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
   <h1 align="center">Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I'm Kim.</h1>
   <p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Development+Student;Interested+in+Tech+and+Sales" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=2.nd+year+SWE+student+%40Metropolia;Solution+driven" alt="Typing SVG" /></a>
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ What going on right now↓.</h2> 
