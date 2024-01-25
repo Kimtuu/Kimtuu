@@ -10,6 +10,7 @@
     •  🔭 I’m currently working on: Description and Modeling Methods with Java  <br>
     •  🌱 I’m currently studying NEXT.js and TypeScript language <br>
     •  🔥 My latest project: <a href="https://stackconnect.onrender.com/">StackConnect</a> Job searching platform<br>
+    •  🔥 other Project i've work on: <a href="https://github.com/G-Unit1/Lentopeli-Web">Flight World</a> HTML + Javascript based broser game, whe user fly across the world. (Not active, repo only) <br>
     •  😄 Fun fact: I've never actually quit Runescape, only taken <strong>VERY LONG</strong> breaks.
   </div>
 </div>
