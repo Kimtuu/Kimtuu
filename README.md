@@ -7,7 +7,7 @@
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ What going on right now↓.</h2> 
-    •  🔭 I’m currently working on: MP: instance course feedback web app  <br>
+    •  🔭 I’m currently working on: <a href="https://github.com/Group-6-Software-Development/Project_Poll">MP</a> instance course feedback web app  <br>
     •  🌱 I’m currently studying design models with java and Data structures and algorithms with Python <br>
     •  🔥 My latest project: <a href="https://stackconnect.onrender.com/">StackConnect</a> Job searching platform<br>
     •  🔥 other Project i've work on: <a href="https://github.com/G-Unit1/Lentopeli-Web">Flight World</a> HTML + Javascript based browser game, whe users fly across the world. (Archived) <br>
