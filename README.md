@@ -3,13 +3,12 @@
  <img align="center" src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
   <h1 align="center">Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I'm Kim.</h1>
   <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Solution+driven;2.nd+year+SWE+student+%40Metropolia" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Solution+driven;3.rd+year+SWE+student+%40Metropolia" alt="Typing SVG" /></a>
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ What going on right now↓.</h2> 
     •  🔭 I’m currently working on: <a href="https://github.com/Group-6-Software-Development/Project_Poll">MP</a> instance course feedback web app  <br>
-    •  🌱 I’m currently studying design models with java and Data structures and algorithms with Python <br>
-    •  🔥 My latest project: <a href="https://stackconnect.onrender.com/">StackConnect</a> Job searching platform<br>
+    •  🌱 I’m currently studying data base management systems and machine learning <br>
     •  🔥 other Project i've work on: <a href="https://github.com/G-Unit1/Lentopeli-Web">Flight World</a> HTML + Javascript based browser game, whe users fly across the world. (Archived) <br>
     •  😄 Fun fact: I've never actually quit Runescape, only taken <strong>VERY LONG</strong> breaks.
   </div>
