@@ -7,7 +7,7 @@
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ What going on right now↓.</h2> 
-    •  🌱 I’m currently studying data base management systems and machine learning <br>
+    •  🌱 I’m currently studying machine learning and neural networks <br>
     •  🔥 other Project i've work on: <a href="https://github.com/G-Unit1/Lentopeli-Web">Flight World</a> HTML + Javascript based browser game, whe users fly across the world. (Archived) <br>
     •  😄 Fun fact: I've never actually quit Runescape, only taken <strong>VERY LONG</strong> breaks.
   </div>
