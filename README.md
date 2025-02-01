@@ -7,7 +7,7 @@
     •  🌱 I’m currently studying machine learning and neural networks <br>
     •  🔥 Project i've work on: <a href="https://github.com/Group-6-Software-Development/MetPoll">MetPoll</a> Web application that allows university lecturers to gather feedback instantly on their courses. (Archived) <br>
     •  🔥 other Project i've work on: <a href="https://github.com/G-Unit1/Lentopeli-Web">Flight World</a> HTML + Javascript based browser game, whe users fly across the world. (Archived) <br>
-    •  😄 Fun fact: I've never actually quit Runescape, only taken <strong>VERY LONG</strong> breaks.
+    •  🚀 Checkout other projects i've been taking part in: <a href="https://github.com/Group-6-Software-Development">Group projects</a>  (Archived) <br>
   </div>
 </div>
 <br>
