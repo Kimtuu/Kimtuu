@@ -3,7 +3,7 @@
  <img align="center" src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
   <h1 align="center">Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I'm Kim. </h1
   <div align="center" style="display: inline_block"><br>
-    <h2>⚡️ What going on right now↓.</h2> 
+    <h2>⚡️ What's going on right now↓.</h2> 
     •  🌱 I’m currently studying machine learning and neural networks <br>
     •  🔥 Project i've work on: <a href="https://github.com/Group-6-Software-Development/MetPoll">MetPoll</a> Web application that allows university lecturers to gather feedback instantly on their courses. (Archived) <br>
     •  🔥 other Project i've work on: <a href="https://github.com/G-Unit1/Lentopeli-Web">Flight World</a> HTML + Javascript based browser game, whe users fly across the world. (Archived) <br>
